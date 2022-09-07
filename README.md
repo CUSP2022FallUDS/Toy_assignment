@@ -1,6 +1,6 @@
 # github_assignment
 
-Deadline is Feb 8 11:59PM
+Deadline is Sep 21 11:59PM
 
 1. Clone this repo “Github_assignment” from the “CUSP2022FallUDS” organization on your local machine. 
 
